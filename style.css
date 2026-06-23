@@ -239,7 +239,7 @@ nav {
 /* Placeholder */
 .ph {
   background: var(--ph-bg);
-  border: 1px dashed var(--ph-border);
+  border: 1px solid var(--ph-border);
   display: flex;
   align-items: center;
   justify-content: center;
