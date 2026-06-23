@@ -4,15 +4,6 @@ Sitio web de portafolio personal desarrollado con **HTML5 y CSS3 puro**, sin fra
 
 ---
 
-## Vista previa
-
-![Portafolio Leonardo García](preview.jpg)
-
-> Portafolio fotográfico con secciones de Retrato, Producto, MotorSport, Eventos y Sociales.  
-> Diseño minimalista en escala de grises con tipografía de tipo editorial.
-
----
-
 ## Tecnologías utilizadas
 
 | Tecnología | Uso |
