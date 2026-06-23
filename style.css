@@ -239,7 +239,7 @@ nav {
 /* Placeholder */
 .ph {
   background: var(--ph-bg);
-  border: 1px solid var(--ph-border);
+  border: none;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -282,7 +282,7 @@ nav {
   min-height: 100vh;
   padding: 0 0 0 5px;
   justify-content: flex-end;
-  border-left: 5px solid var(--bar);
+  border-left: none;
 }
 #motorsport-hero .ph.hero-full {
   position: absolute;
