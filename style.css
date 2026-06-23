@@ -168,7 +168,7 @@ nav {
   flex: 0 0 320px;
   aspect-ratio: 3/4;
   background: var(--ph-bg);
-  border: 1px dashed var(--ph-border);
+  border: none;
   display: flex;
   align-items: center;
   justify-content: center;
